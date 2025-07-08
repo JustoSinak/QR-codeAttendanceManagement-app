@@ -1,0 +1,21 @@
+[90m= [39m[34;4mApp\Models\Employee[39;24m {#6224
+    [34mid[39m: "[32mEMP001[39m",
+    [34memp_name[39m: "[32mJohn Doe[39m",
+    [34mgender[39m: "[32mMale[39m",
+    [34memp_mail[39m: "[32mjohn.doe@company.com[39m",
+    [34memp_number[39m: [35m1234567890[39m,
+    [34mdepartment[39m: "[32mIT[39m",
+    [34mposition[39m: "[32mSoftware Developer[39m",
+    [34mhire_date[39m: "[32m2025-07-08[39m",
+    [34memployee_status[39m: "[32mactive[39m",
+    [34maddress[39m: [36mnull[39m,
+    [34memergency_contact[39m: [36mnull[39m,
+    [34memergency_phone[39m: [36mnull[39m,
+    [34msalary[39m: [36mnull[39m,
+    [34mwork_schedule[39m: [36mnull[39m,
+    [34mqr_code_path[39m: [36mnull[39m,
+    [34mprofile_photo[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2025-07-08 10:16:28[39m",
+    [34mupdated_at[39m: "[32m2025-07-08 10:16:28[39m",
+  }
+
